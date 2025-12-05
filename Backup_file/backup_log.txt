@@ -1,0 +1,24 @@
+
+	                   2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_B\
+	    New File  		    2048	cofig_2.ini100%  
+	    New File  		    3072	database_2.db100%  
+	  New Dir          5	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_B\Subfolder_B1\
+	    New File  		    5120	aplikasi_1_B.bat100%  
+	    New File  		    3072	catatan_1_B.txt100%  
+	    New File  		    2048	data_1_B.docx100%  
+	    New File  		    1024	dokumen_1_B.pdf100%  
+	    New File  		    4096	laporan_1_B.csv100%  
+	  New Dir          5	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_B\Subfolder_B2\
+	    New File  		    5120	aplikasi_2_B.bat100%  
+	    New File  		    3072	catatan_2_B.txt100%  
+	    New File  		    2048	data_2_B.docx100%  
+	    New File  		    1024	dokumen_2_B.pdf100%  
+	    New File  		    4096	laporan_2_B.csv100%  
+	  New Dir          5	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_B\Subfolder_B3\
+	    New File  		    5120	aplikasi_3_B.bat100%  
+	    New File  		    3072	catatan_3_B.txt100%  
+	    New File  		    2048	data_3_B.docx100%  
+	    New File  		    1024	dokumen_3_B.pdf100%  
+	    New File  		    4096	laporan_3_B.csv100%  
+Backup selesai pada Fri 12/05/2025  1:57:52.93 
+Email berhasil dikirim ke alisyaalisha35@gmail.com. 
